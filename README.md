@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/672i08pme55ohb22/branch/main?svg=true)](https://ci.appveyor.com/project/PolinaVylizhanina/ajs-opp-method/branch/main)
